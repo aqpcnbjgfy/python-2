@@ -10,6 +10,8 @@ Show Me the Code Python version.
 
   * Fork this repo.
   * Create a folder named with your github name.
+  
+  
   * Create a folder named the problem num.
   * Add your solution in the folder.
 
